@@ -6,7 +6,7 @@ First, run the backend server:
 pip install -r requirements.txt
 python server.py
 ```
-First, run the nextjs applicatiom:
+Second, run the nextjs applicatiom:
 
 ```
 npm run dev
