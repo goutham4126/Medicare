@@ -1,3 +1,4 @@
+# AI powered medical diagnosis system – Python Backend + Next.js Frontend
 
 First, run the backend server:
 
