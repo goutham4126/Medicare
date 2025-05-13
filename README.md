@@ -4,7 +4,7 @@ First, run the backend server:
 
 ```bash
 pip install -r requirements.txt
-python server.py
+python symptom_server.py
 ```
 Second, run the nextjs applicatiom:
 
